@@ -6,6 +6,8 @@
 trigger:
 - main
 
+environment: 'Test Environment'
+
 pool:
   vmImage: ubuntu-latest
 
