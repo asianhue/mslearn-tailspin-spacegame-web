@@ -4,7 +4,9 @@
     script: |
       echo Hello world
       
-      "C:\Users\kwong\Downloads\HT-huckleberry-dog-on-roof-1-jt-170511_16x9_992.jpg"
+      "C:\\Users\\kwong\\Downloads\\HT-huckleberry-dog-on-roof-1-jt-170511_16x9_992.jpg"
+
+
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
